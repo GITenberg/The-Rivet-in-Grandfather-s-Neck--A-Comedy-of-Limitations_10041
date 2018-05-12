@@ -1,5 +1,8 @@
 _repo: The-Rivet-in-Grandfather-s-Neck--A-Comedy-of-Limitations_10041
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cabell, James Branch
@@ -13,6 +16,8 @@ description: This 1915 novel is set in Virginia in the waning years of the ninet
   century. A marriage between an aristocratic Southern gentleman and the spoiled daughter
   of a businessman affords Cabell the opportunity, with lapidary grace and gently
   devastating irony, of skewering the chivalric illusions of the Old South.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10041#The-Rivet-in-Grandfather-s-Neck--A-Comedy-of-Limitations
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
